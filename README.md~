@@ -7,10 +7,3 @@
 * Möglichkeit zum Kalibrieren des Sensors
 * ggf. Alarmton
 * ggf. Bedienung über Kapazitive Tasten
-
-## Hardware
-* MH-Z19B
-* ESP32
-* Display ???
-* LED ???
-* Gehäuse geklärt
